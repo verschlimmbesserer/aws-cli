@@ -1,0 +1,4 @@
+---
+# defaults file for aws-cli
+user: root
+region: eu-central-1
